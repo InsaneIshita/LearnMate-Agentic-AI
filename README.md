@@ -41,9 +41,10 @@ LearnMate is an AI-powered Agentic Coach that interacts with students, helps the
 
 ---
 
-## Screenshots
+## Agent In Action
 
-Agent In Action...
+[▶ Watch Demo Video](https://github.com/InsaneIshita/LearnMate-Agentic-AI/blob/main/LearnMateAI_walkthrough.mp4)
+
 ![1](Screenshots/Screenshot%202025-07-30%20175508.png)
 ![2](Screenshots/Screenshot%202025-07-30%20175738.png)
 ![3](Screenshots/Screenshot%202025-07-30%20180439.png)
